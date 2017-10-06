@@ -1,2 +1,0 @@
-body{margin:0;padding:0;display:-ms-flexbox;display:flex;-ms-flex-direction:row;flex-direction:row;-ms-flex-wrap:wrap;flex-wrap:wrap;background-color:#000}canvas.main{width:500px;height:500px;top:150px}canvas.main,canvas.score{position:absolute;left:calc(50% - 250px)}canvas.score{top:20px;width:520px;height:130px}canvas.leftambient{left:calc(50% - 350px)}canvas.leftambient,canvas.rightambient{position:absolute;top:20px;width:100px;height:650px}canvas.rightambient{left:calc(50% + 270px)}
-/*# sourceMappingURL=main.aa4f46b0.css.map*/
