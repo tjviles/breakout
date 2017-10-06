@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: black;
+}
+
+canvas.main{
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  top: 150px;
+  left: calc(50% - 250px);
+}
+
+canvas.score{
+  position: absolute;
+  top: 20px;
+  left: calc(50% - 250px);
+  width: 520px;
+  height: 130px;
+}
+
+canvas.leftambient{
+  position: absolute;
+  top: 20px;
+  left: calc(50% - 350px);
+  width: 100px;
+  height: 650px;
+}
+
+canvas.rightambient{
+  position: absolute;
+  top: 20px;
+  left: calc(50% + 270px);
+  width: 100px;
+  height: 650px;
+}
