@@ -1,5 +1,5 @@
 {
-  "homepage: "https://tjviles.github.io/breakout",
+  "homepage": "https://tjviles.github.io/breakout",
   "name": "breakout",
   "version": "0.1.0",
   "private": true,
